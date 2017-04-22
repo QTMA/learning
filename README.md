@@ -6,6 +6,9 @@
 - [Sprint](http://www.thesprintbook.com/)
 - [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 
+## Branding
+- [Zapier Brand](https://zapier.com/brand/)
+
 ## Web development Resources
 
 - [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
