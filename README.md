@@ -19,6 +19,7 @@
 
 ## Web development Resources
 
+- [GitHub Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students
 - [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Free Code Camp](https://www.freecodecamp.com/)
 - [The Odin Project](http://www.theodinproject.com/)
