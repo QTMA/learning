@@ -27,3 +27,8 @@
 
 ## Cool Podcasts
 - [Front End Happy Hour](http://frontendhappyhour.com/) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
+
+# License
+
+2017 © [QTMA](http://qtma.ca)
+> :fork_and_knife: Fork away!
