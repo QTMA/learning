@@ -24,7 +24,7 @@
 
 ## UI/UX
 
-- [Springboard User Experience cours](https://www.springboard.com/learning-paths/user-experience-design/) - Learn the tools and processes you need to deliver useful and amazing experiences to your users
+- [Springboard User Experience course](https://www.springboard.com/learning-paths/user-experience-design/) - Learn the tools and processes you need to deliver useful and amazing experiences to your users
 
 ### UI/UX Tools
 - [Sketch](http://sketchapp.com) (MacOs)
