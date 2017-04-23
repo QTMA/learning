@@ -5,8 +5,8 @@
 
 1. [Product Development](#product-development)
 2. [Branding](#branding)
-3. [UI/UX]()
-    1. [UI/UX Tools]()
+3. [UI/UX](#uiux)
+    1. [UI/UX Tools](#uiux-tools)
 4. [Web Development](#web-development)
 5. [Miscellaneous](#miscellaneous)
     1. [Cool Podcasts](#cool-podcasts)
