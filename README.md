@@ -1,23 +1,36 @@
 # learning
 > :rocket: Get your learn on
 
+# Table of Contents
+
+1. [Product Development](#product-development)
+2. [Branding](#branding)
+3. [UI/UX]()
+  a. [UI/UX Tools]()
+4. [Web Development](#web-development)
+5. [Miscellaneous](#miscellaneous)
+  a. [Cool Podcasts](#cool-podcasts)
+
 ## Product Development
+> Processes and tips for developing new products
 
 - [Sprint](http://www.thesprintbook.com/)
 - [Design Sprint Kit](https://designsprintkit.withgoogle.com/)
 
 ## Branding
+> Great examples of how to establish a brand identity
+
 - [Zapier Brand](https://zapier.com/brand/)
 
 ## UI/UX
 
 - [Springboard User Experience cours](https://www.springboard.com/learning-paths/user-experience-design/) - Learn the tools and processes you need to deliver useful and amazing experiences to your users
 
-### Tools
+### UI/UX Tools
 - [Sketch](http://sketchapp.com) (MacOs)
 - [Adobe XD](http://www.adobe.com/ca/products/experience-design.html) (Windows, MacOS)
 
-## Web development Resources
+## Web development
 
 - [GitHub Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students
 - [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -26,7 +39,11 @@
 - [PonyFoo](https://ponyfoo.com) - Nicolás Bevacqua's blog about web development
 - [Know Your HTTP Well](https://github.com/for-GET/know-your-http-well) - A guide to HTTP
 
-## Cool Podcasts
+## Miscellaneous
+
+### Cool Podcasts
+> For when you want to learn by listening
+
 - [Front End Happy Hour](http://frontendhappyhour.com/) - A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.
 
 # License
