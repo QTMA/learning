@@ -6,10 +6,10 @@
 1. [Product Development](#product-development)
 2. [Branding](#branding)
 3. [UI/UX]()
-  a. [UI/UX Tools]()
+    1. [UI/UX Tools]()
 4. [Web Development](#web-development)
 5. [Miscellaneous](#miscellaneous)
-  a. [Cool Podcasts](#cool-podcasts)
+    1. [Cool Podcasts](#cool-podcasts)
 
 ## Product Development
 > Processes and tips for developing new products
