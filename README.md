@@ -4,11 +4,12 @@
 # Table of Contents
 
 1. [Product Development](#product-development)
-2. [Branding](#branding)
-3. [UI/UX](#uiux)
+1. [Branding](#branding)
+1. [Marketing](#marketing)
+1. [UI/UX](#uiux)
     1. [UI/UX Tools](#uiux-tools)
-4. [Web Development](#web-development)
-5. [Miscellaneous](#miscellaneous)
+1. [Web Development](#web-development)
+1. [Miscellaneous](#miscellaneous)
     1. [Cool Podcasts](#cool-podcasts)
 
 ## Product Development
