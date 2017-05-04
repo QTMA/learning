@@ -22,6 +22,11 @@
 
 - [Zapier Brand](https://zapier.com/brand/)
 
+## Marketing
+> Great examples and tools for marketing products
+
+- [Sandwhich Video](https://sandwichvideo.com/) - Great examples of video marketing
+
 ## UI/UX
 
 - [Dribbble](https://dribbble.com) - Dribbble is a place to show and tell, promote, discover, and explore design.
