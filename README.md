@@ -37,6 +37,7 @@
 ### UI/UX Tools
 - [Sketch](http://sketchapp.com) (MacOs)
 - [Adobe XD](http://www.adobe.com/ca/products/experience-design.html) (Windows, MacOS)
+- [Figma]() (Every OS, it's a web app)
 
 ## Web development
 
