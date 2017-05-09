@@ -34,6 +34,7 @@
 - [Dribbble](https://dribbble.com) - Dribbble is a place to show and tell, promote, discover, and explore design.
 - [Behance](https://behance.net) - Showcase & Discover Creative Work
 - [Springboard User Experience course](https://www.springboard.com/learning-paths/user-experience-design/) - Learn the tools and processes you need to deliver useful and amazing experiences to your users
+- [UX Checklist](http://uxchecklist.github.io/) - A User Experience checklist to use when building products
 
 ### UI/UX Tools
 - [Sketch](http://sketchapp.com) (MacOs)
