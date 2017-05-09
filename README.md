@@ -8,6 +8,7 @@
 1. [Marketing](#marketing)
 1. [UI/UX](#uiux)
     1. [UI/UX Tools](#uiux-tools)
+    1. [Rapid Prototyping](#rapid-prototyping)
 1. [Web Development](#web-development)
 1. [Miscellaneous](#miscellaneous)
     1. [Cool Podcasts](#cool-podcasts)
@@ -38,6 +39,8 @@
 - [Sketch](http://sketchapp.com) (MacOs)
 - [Adobe XD](http://www.adobe.com/ca/products/experience-design.html) (Windows, MacOS)
 - [Figma](https://www.figma.com/) (Every OS, it's a web app) **Free for students**
+
+### Rapid Prototyping
 
 ## Web development
 
