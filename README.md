@@ -14,6 +14,9 @@
     1. [UI/UX Articles](#uiux-articles)
     1. [UI/UX Tools](#uiux-tools)
     1. [Rapid Prototyping](#rapid-prototyping)
+    1. [Stock Photos](#stock-photos)
+    1. [Fonts](#fonts)
+    1. [Icons](#icons)
 1. [Software Development](#software-development)
     1. [Development Tools](#development-tools)
     1. [Web Development](#web-development)
@@ -52,6 +55,20 @@
 - [Sketch](http://sketchapp.com) (MacOs) :star:
 - [Adobe XD](http://www.adobe.com/ca/products/experience-design.html) (Windows, MacOS)
 - [Figma](https://www.figma.com/) (Every OS, it's a web app) **Free for students**
+
+### Stock Photos
+- [Unsplash](https://unsplash.com) :star:
+- [Stocksnap](https://stocksnap.io/)
+- [Pexels](https://www.pexels.com/)
+
+### Fonts
+- [Lost Type](http://www.losttype.com/) :star:
+- [Google Fonts](https://fonts.google.com/) :star:
+- [Font Squirrel](https://www.fontsquirrel.com/)
+- [Typography Essentials – A Getting Started Guide](http://freelancefolder.com/typography-essentials-a-getting-started-guide/) :star:
+
+### Icons
+- [Font Awesome](https://fontawesome.io)
 
 ### Rapid Prototyping
 - [InVision](https://www.invisionapp.com/)
