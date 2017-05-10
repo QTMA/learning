@@ -63,6 +63,7 @@
 #### Version Control
 - [Git Kraken](https://www.gitkraken.com/) - The most popular Git GUI for Windows, Mac AND Linux :star:
 - [Source Tree](https://www.sourcetreeapp.com/) - A free visual Git and Hg client for Mac and Windows
+- [Comparing Git Workflows by Atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows) - A look at how to work with Git in a team - **Highly recommended you use the Gitflow workflow** :star:
 
 #### Text Editors/IDEs
 - [WebStorm](https://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE - **Free license for students** :star:
