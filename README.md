@@ -55,6 +55,7 @@
 - [Sketch](http://sketchapp.com) (MacOs) :star:
 - [Adobe XD](http://www.adobe.com/ca/products/experience-design.html) (Windows, MacOS)
 - [Figma](https://www.figma.com/) (Every OS, it's a web app) **Free for students**
+- [Visual Studio Code](https://code.visualstudio.com/) (Windows, MacOS)
 
 ### Stock Photos
 - [Unsplash](https://unsplash.com) :star:
